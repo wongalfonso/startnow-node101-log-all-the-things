@@ -1,0 +1,1 @@
+This is a simple logger that stores the clients Agent, Time, Method, REsource, Version and HTTP Status. The logger is then stored in CSV format and sent to the client in JSON format. The logger will also only show up to 20 logs per page. The rest of the logs are stored into a seperate log file. 
